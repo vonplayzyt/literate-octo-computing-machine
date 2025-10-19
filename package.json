@@ -1,0 +1,12 @@
+{
+  "name": "bloxfruit-service-bot",
+  "version": "1.0.0",
+  "description": "Discord bot that builds a full Blox Fruits service server with one command.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.15.3"
+  }
+}
